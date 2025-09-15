@@ -1,10 +1,13 @@
-datafun-04-eda
+# 📁 Project Initialization: datafun-04-eda
 
-Project Initialization
+**Repository Setup**
+- ✅ Created a new repository on GitHub named `datafun-04-eda`
+- ✅ Cloned the repository to my local machine
+- ✅ Added `.gitignore` to exclude unnecessary files
+- ✅ Added `requirements.txt` to manage dependencies
+- ✅ Verified the repository is set to **public**
 
-Created my repository in GitHub, naming it datafun-04-eda.
-Cloned my GitHub repository to my local machine.
-Added .gitignore and requirements.txt to my repository.
-Made sure the repository is public
-Added sample notebook - visualization showing sales for a period of 10 days by cetegory
-Used pandas library for data frame and used the panda lib functions to create summary.
+**Notebook & Analysis**
+- 📊 Added a sample Jupyter notebook showing sales visualization over a 10-day period by category
+- 🐼 Used the `pandas` library to create and manipulate the DataFrame
+- 📈 Applied `pandas` functions to generate a statistical summary of sales by category
