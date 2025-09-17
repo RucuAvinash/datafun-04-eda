@@ -30,11 +30,11 @@ py -m pip install --upgrade -r requirements.txt --timeout 100
 Usage
 Open any Jupyter notebooks in this repository using VS Code or JupyterLab. Make sure to select the .venv interpreter/kernel.
 Use the included scripts and notebooks as templates for your own datasets:
-# Load the Iris dataset into a pandas DataFrame
-# List column names
-# Inspect first few rows of the DataFrame 
+** 1. Load the Iris dataset into a pandas DataFrame**
+** 2. List column names**
+** 3. Inspect first few rows of the DataFrame **
+** 4. Load, clean, visualise, and report findings.**
 
-Load, clean, visualise, and report findings.
 Dependencies
 The project includes a comprehensive requirements.txt with common EDA packages such as jupyter, ipykernel, matplotlib, and seaborn. Review the file and uncomment or add packages you need.
 
